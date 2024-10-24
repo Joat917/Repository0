@@ -1,6 +1,15 @@
 # Repository0
 
-- The first repository. Nothing Special.
-- To explore my new territory on the Internet. 
+```
+Hello Github!
+```
 
-+ Why is this repository marked as HTML? Just because the HTML file is far larger than the others? That doesn't make any sense, since I'm basically a pythoner. 
+- This is my first repository. 
+- It is created to explore my new territory on the Internet.
+- I would type something that yields `hello github` in each of the files in this repository. 
+
+It is ridiculous that this repository marked as HTML, only because of the complexity of HTML. That doesn't make any sense, since I'm a pythoner. 
+
+## And, at the End
+
+让我们说中文！
